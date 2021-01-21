@@ -1,0 +1,7 @@
+C:\Users\A702362\visualStudio_workspace\MessagePrinterSol\MessagePrinter\bin\Debug\MessagePrinter.exe.config
+C:\Users\A702362\visualStudio_workspace\MessagePrinterSol\MessagePrinter\bin\Debug\MessagePrinter.exe
+C:\Users\A702362\visualStudio_workspace\MessagePrinterSol\MessagePrinter\bin\Debug\MessagePrinter.pdb
+C:\Users\A702362\visualStudio_workspace\MessagePrinterSol\MessagePrinter\obj\Debug\MessagePrinter.csprojAssemblyReference.cache
+C:\Users\A702362\visualStudio_workspace\MessagePrinterSol\MessagePrinter\obj\Debug\MessagePrinter.csproj.CoreCompileInputs.cache
+C:\Users\A702362\visualStudio_workspace\MessagePrinterSol\MessagePrinter\obj\Debug\MessagePrinter.exe
+C:\Users\A702362\visualStudio_workspace\MessagePrinterSol\MessagePrinter\obj\Debug\MessagePrinter.pdb
