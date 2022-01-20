@@ -1,0 +1,13 @@
+C:\Users\A702362\visualStudio_workspace\CursoC#NET_1\MyFirstAppSol\MyFirstApp\bin\Release\netcoreapp3.1\MyFirstApp.exe
+C:\Users\A702362\visualStudio_workspace\CursoC#NET_1\MyFirstAppSol\MyFirstApp\bin\Release\netcoreapp3.1\MyFirstApp.deps.json
+C:\Users\A702362\visualStudio_workspace\CursoC#NET_1\MyFirstAppSol\MyFirstApp\bin\Release\netcoreapp3.1\MyFirstApp.runtimeconfig.json
+C:\Users\A702362\visualStudio_workspace\CursoC#NET_1\MyFirstAppSol\MyFirstApp\bin\Release\netcoreapp3.1\MyFirstApp.runtimeconfig.dev.json
+C:\Users\A702362\visualStudio_workspace\CursoC#NET_1\MyFirstAppSol\MyFirstApp\bin\Release\netcoreapp3.1\MyFirstApp.dll
+C:\Users\A702362\visualStudio_workspace\CursoC#NET_1\MyFirstAppSol\MyFirstApp\bin\Release\netcoreapp3.1\MyFirstApp.pdb
+C:\Users\A702362\visualStudio_workspace\CursoC#NET_1\MyFirstAppSol\MyFirstApp\obj\Release\netcoreapp3.1\MyFirstApp.csprojAssemblyReference.cache
+C:\Users\A702362\visualStudio_workspace\CursoC#NET_1\MyFirstAppSol\MyFirstApp\obj\Release\netcoreapp3.1\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\A702362\visualStudio_workspace\CursoC#NET_1\MyFirstAppSol\MyFirstApp\obj\Release\netcoreapp3.1\MyFirstApp.AssemblyInfoInputs.cache
+C:\Users\A702362\visualStudio_workspace\CursoC#NET_1\MyFirstAppSol\MyFirstApp\obj\Release\netcoreapp3.1\MyFirstApp.AssemblyInfo.cs
+C:\Users\A702362\visualStudio_workspace\CursoC#NET_1\MyFirstAppSol\MyFirstApp\obj\Release\netcoreapp3.1\MyFirstApp.dll
+C:\Users\A702362\visualStudio_workspace\CursoC#NET_1\MyFirstAppSol\MyFirstApp\obj\Release\netcoreapp3.1\MyFirstApp.pdb
+C:\Users\A702362\visualStudio_workspace\CursoC#NET_1\MyFirstAppSol\MyFirstApp\obj\Release\netcoreapp3.1\MyFirstApp.genruntimeconfig.cache
